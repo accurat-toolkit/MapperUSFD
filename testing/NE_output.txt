@@ -1,0 +1,78 @@
+Abraham Lincoln	Abraham Lincoln	1.0
+Betty Friedan	Betty Friedan	1.0
+Jim Crow	Jim Crow	1.0
+Martin Waldseemüller	Martin Waldseemüller	1.0
+Coca-Cola	Coca-Cola	1.0
+Gloria Steinem	Gloria Steinem	1.0
+Jelgava	Jelgava	1.0
+Nebraska	Nebraskas	0.9103574720999545
+Florida	Floridas	0.8989061958123105
+Amsterdam	Amsterdamai	0.8588826348672883
+Amsterdam	Amsterdamas	0.8588826348672883
+Guam	Guama	0.8415685232306558
+Latvia	Latvij	0.7966666666666666
+Austria	Austrija	0.7676753093633759
+Guam	Guamas	0.7422143564947912
+Latvia	Latvija	0.7320106028008594
+Serbia	Serbija	0.7320106028008594
+Atlantic	Atlantijas	0.7282637952325852
+California	Kalifornija	0.7268095665763035
+California	Kalifornijā	0.7180974453641822
+Baltic	Baltija	0.716534412324669
+Latvia	Latvijā	0.716534412324669
+Latvia	Latviju	0.716534412324669
+Livonia	Livonijas	0.7069966390084405
+California	Kalifornijai	0.6860318772332837
+California	Kalifornijas	0.6860318772332837
+America	Amerika	0.6830952380952381
+India	Indija	0.680733911344737
+America	Ameriku	0.6676190476190477
+America	Amerikā	0.6676190476190477
+Latvia	Latvijas	0.6668725418031546
+Latvia	Latvijai	0.6668725418031546
+Portugal	Portugāle	0.6659115852190215
+Atlanta	Atlantijas	0.6595114797473511
+France	Francijā	0.6564558751364878
+Poland	Holandes	0.6564558751364878
+Baltic	Baltijas	0.6564558751364878
+France	Francija	0.6564558751364878
+Enrico Fermi	Enriko Fermi	0.6414682539682539
+Kārlis Ulmanis	Kārli Ulmani	0.6389840545670281
+Alaska	Aļaska	0.6266666666666666
+America	Amerikas	0.6218610895811081
+India	Indijas	0.6111834661351107
+France	Francijas	0.608857117328358
+Romania	Romas	0.5998739423255868
+Arlington	Vašingtonā	0.5819704127410417
+Arlington	Vašingtona	0.5819704127410417
+Cuba	Kubai	0.5810513516784018
+Cēsis	Cēsu	0.5810513516784018
+Rome	Romas	0.5810513516784018
+Nice	Nicas	0.5810513516784018
+Vietnam	Vjetnamas	0.5750265533594003
+Alaska	Aļaskas	0.5706369902520771
+Washington	Vašingtonā	0.5605555555555556
+Washington	Vašingtona	0.5605555555555556
+Wilmington	Vašingtona	0.5538888888888889
+Wilmington	Vašingtonā	0.5538888888888889
+Poland	Islande	0.5508541689897023
+Arlington	Vašingtonas	0.5480558619369249
+Dallas	Dalasa	0.5383333333333333
+Washington	Vašingtonas	0.5381974530325696
+Malmö	Malta	0.5233333333333333
+Wilmington	Vašingtonas	0.5219205967627442
+Ireland	Islande	0.5210714285714286
+Iceland	Islande	0.5210714285714286
+Abraham Lincoln	Abrahams Linkolns	0.5188996834969574
+Switzerland	Nīderlande	0.5168890985555509
+Nice	Šveice	0.514850456068087
+Jelgava	Daugava	0.5139285714285714
+Finland	Islande	0.5114285714285715
+Gloria Steinem	Glorija Šteinema	0.5069492178940708
+Versailles	Versaļas	0.5061644701130076
+Alaska	Dalasa	0.5058333333333334
+Nebraska	Aļaska	0.5054541514717217
+Boston	Hjūstonā	0.5054541514717217
+Policies	Polija	0.5054541514717217
+Henry Ford	Henrija Forda	0.500178067113956
+Australia	Austrāliju	0.5000542300702672

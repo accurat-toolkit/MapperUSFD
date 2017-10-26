@@ -1,0 +1,36 @@
+Jelgava	Jelgava	1.0
+Bill Gates	Bill Gates	1.0
+Paul Allen	Paul Allen	1.0
+IBM	IBM	1.0
+Redmond	Redmondą	0.8989061958123105
+Latvia	Latvija	0.7320106028008594
+Europe	Europos	0.716534412324669
+Latvia	Latviją	0.716534412324669
+Livonia	Livonijos	0.6972744167862182
+Microsoft Word	Microsoft BASIC	0.6734221473895179
+Latvia	Latvijai	0.6668725418031546
+Latvia	Latvijos	0.6564558751364878
+Baltic	Baltijos	0.6564558751364878
+K�rlis Ulmanis	Guntis Ulmanis	0.6546275946275946
+Livonia	Livonijoje	0.6520114797473512
+Microsoft Excel	Microsoft BASIC	0.6511031741496079
+Microsoft Press	Microsoft BASIC	0.6511031741496079
+Microsoft Mouse	Microsoft BASIC	0.6511031741496079
+Microsoft Office	Microsoft BASIC	0.6348771202269406
+Microsoft Word	Microsoft Lietuva	0.6174666819877005
+Baltic.	Baltijos	0.6114444229144413
+Latvia	Latvijoje	0.608857117328358
+Microsoft Press	Microsoft Lietuva	0.6008327938788993
+Microsoft Mouse	Microsoft Lietuva	0.6008327938788993
+Microsoft Excel	Microsoft Lietuva	0.5999399367360422
+Microsoft Windows	Microsoft BASIC	0.5995631345663315
+Microsoft Dynamics	Microsoft BASIC	0.5971454666159249
+Microsoft Office	Microsoft Lietuva	0.590184089812975
+Rome	Romos	0.5810513516784018
+Roma	Romos	0.5810513516784018
+Microsoft Windows	Microsoft Lietuva	0.5662464985994398
+Microsoft Dynamics	Microsoft Lietuva	0.5580452158110437
+K�rlis Ulmanis	K. Ulmanio	0.5523854863503704
+Microsoft Corporation	Microsoft BASIC	0.5233935769545124
+Baltic	Pabaltijo	0.5227460062172469
+K�rlis Ulmanis	Karlio Ulmanio	0.5167429792429793

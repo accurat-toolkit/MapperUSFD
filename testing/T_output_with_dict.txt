@@ -1,0 +1,373 @@
+States	štatos	1.0
+States	štati	1.0
+states	štati	1.0
+state	štatā	1.0
+armed forces	bruņotos spēkus	1.0
+new states	jaunajos štatos	1.0
+states	štatiem	1.0
+private sector	privātā sektora	1.0
+State	štatā	1.0
+private sector	privātais sektors	1.0
+national parks	nacionālie parki	1.0
+States	štatiem	1.0
+states	štatos	1.0
+silver medal	sudraba medaļu	1.0
+member states	dalībvalstīs	1.0
+Member State	dalībvalsti	1.0
+member state	dalībvalsti	1.0
+Member states	dalībvalstīs	1.0
+Member states	dalībvalstīm	1.0
+member states	dalībvalstīm	1.0
+silver medals	sudraba medaļu	0.9257204299129791
+member states	dalībvalsti	0.9257204299129791
+member state	dalībvalstīs	0.9257204299129791
+member state	dalībvalstīm	0.9257204299129791
+federal government	federālās valdības	0.9008913227895462
+federal government	federālā valdība	0.9008913227895462
+federal level	federālā līmenī	0.8799367761659385
+federal level	federālajā līmenī	0.8799367761659385
+federal governments	federālās valdības	0.8786918231673081
+federal governments	federālā valdība	0.8786918231673081
+state	štati	0.8687084059174853
+state	štatos	0.8687084059174853
+state	štatiem	0.8687084059174853
+states	štatā	0.8687084059174853
+Member states	dalībvalsti	0.8658229940155433
+new member states	dalībvalstīm	0.8410253718221756
+new member states	dalībvalstīs	0.8410253718221756
+power parity	pirktspējas paritātes	0.8405523608769858
+armed forces	bruņotie spēki	0.8321791298548833
+silver medal	sudraba medaļa	0.8285559442904064
+most member states	dalībvalstīs	0.8092018542167283
+most member states	dalībvalstīm	0.8092018542167283
+non-member states	dalībvalstīm	0.8089912122466321
+non-member states	dalībvalstīs	0.8089912122466321
+ethnic groups	etniskās grupas	0.8007893563073608
+silver medals	sudraba medaļa	0.7966666666666666
+new member states	dalībvalsti	0.7960657447536761
+scientific research	zinātnisko pētījumu	0.7892388443059765
+member states share	dalībvalstīm	0.7770214872791444
+member states share	dalībvalstīs	0.7770214872791444
+most member states	dalībvalsti	0.7672078256987259
+non-member states	dalībvalsti	0.7660106793765149
+federal government	federālo valdību	0.7633322211122352
+federal governments	federālo valdību	0.758008514983363
+new states	štatos	0.7484008636728348
+income tax	ienākumus	0.7484008636728348
+new states	štatiem	0.7484008636728348
+income tax	ienākumu	0.7484008636728348
+income tax	ienākumi	0.7484008636728348
+income tax	ienākuma	0.7484008636728348
+income tax	ienākumiem	0.7484008636728348
+new states	štati	0.7484008636728348
+states	jaunajos štatos	0.7484008636728348
+period	laika	0.7484008636728348
+member	dalībvalstu	0.7484008636728348
+EU institutions	institūciju	0.7471573201962989
+State	štatiem	0.7441629513720309
+State	štati	0.7441629513720309
+State	štatos	0.7441629513720309
+States	štatā	0.7441629513720309
+member states share	dalībvalsti	0.7361259809754547
+presidential election	prezidenta vēlēšanas	0.7250386457252731
+policies	politiku	0.7249576842361215
+policies	politikas	0.7249576842361215
+world	pasaules	0.7180293420242635
+world	pasauli	0.7180293420242635
+national parks	nacionālais parks	0.7091003387889787
+countries	valstīm	0.704578190669268
+countries	valstīs	0.704578190669268
+countries	valstis	0.704578190669268
+population growth	iedzīvotāju	0.701997414721181
+developed nations	attīstīto nāciju	0.7000246434392481
+high levels	līmeņos	0.6988179332690773
+period	laiku	0.6988179332690773
+members	dalībvalstu	0.6929639999110179
+power parity	pirktspējas paritāti	0.6918757901719943
+country	valsti	0.6873317916908092
+country	valstij	0.6873317916908092
+country	valstī	0.6873317916908092
+28th member	dalībvalstu	0.6769195394235896
+adult population	iedzīvotāju	0.6708799708316522
+Policies	politiku	0.6690096166032713
+Policies	politikas	0.6690096166032713
+power parity	pirktspējas paritātes līmenī	0.6678807562165223
+States	jaunajos štatos	0.6675675303395014
+individual member states	dalībvalstīm	0.6643631253924549
+individual member states	dalībvalstīs	0.6643631253924549
+member states	Savienības dalībvalstis	0.6643631253924549
+state	jaunajos štatos	0.6638455617834755
+new states	štatā	0.6638455617834755
+local government	federālā valdība	0.6580862422800732
+local government	federālās valdības	0.6580862422800732
+other states	štati	0.657864245596541
+other states	štatiem	0.657864245596541
+Other states	štatiem	0.657864245596541
+other states	štatos	0.657864245596541
+Other states	štati	0.657864245596541
+slave states	štati	0.657864245596541
+Other states	štatos	0.657864245596541
+slave states	štatos	0.657864245596541
+slave states	štatiem	0.657864245596541
+member	dalībvalsti	0.657864245596541
+national economy	nacionālais parks	0.6571173270209753
+adult population	iedzīvotājiem	0.6549972116018903
+government	federālās valdības	0.6522230010534458
+government	federālā valdība	0.6522230010534458
+countries	valstu	0.6453593111980721
+policy	politiku	0.6414285714285715
+policy	politikas	0.6414285714285715
+federal law	federālajā līmenī	0.6410088211651285
+federal law	federālā līmenī	0.6410088211651285
+new member states	Savienības dalībvalstis	0.6397076078102107
+local governments	federālā valdība	0.6394472162099193
+local governments	federālās valdības	0.6394472162099193
+federal laws	federālos likumus	0.6338730161447141
+other countries	valstis	0.6332818555828175
+government	Federālā valdība	0.6326402179763956
+governments	federālo valdību	0.6312463411738503
+individual member states	dalībvalsti	0.6299584395605519
+member state	Savienības dalībvalstis	0.6299584395605519
+Member states	Savienības dalībvalstis	0.6297174219967514
+first state	štatā	0.6287575185207398
+free trade agreements	brīvo tirdzniecību	0.6267816769668403
+governments	federālās valdības	0.6240790282000974
+governments	federālā valdība	0.6240790282000974
+high levels	līmeņu	0.624053958420107
+period	laiki	0.6232403339511059
+member	dalībvalstīm	0.6232403339511059
+member	dalībvalstīs	0.6232403339511059
+states	dalībvalstīm	0.6232403339511059
+states	dalībvalstīs	0.6232403339511059
+Country	valstij	0.6229224510314684
+Country	valsti	0.6229224510314684
+Country	valstī	0.6229224510314684
+most member states	Savienības dalībvalstis	0.6218893819501344
+population increased	iedzīvotāju	0.6217652238890687
+population increases	iedzīvotāju	0.6217652238890687
+national law	valsts	0.6215497395832454
+human development	tautas attīstība	0.6213278875047236
+armed forces	bruņotajiem spēkiem	0.6208696060453595
+social policies	politikas	0.6206828779343073
+social policies	politiku	0.6206828779343073
+federal government	Federālā valdība	0.619617890357449
+Member State	dalībvalstīs	0.6192204299129791
+Member State	dalībvalstīm	0.6192204299129791
+Other states	jaunajos štatos	0.6191278505005247
+other states	jaunajos štatos	0.6191278505005247
+slave states	jaunajos štatos	0.617461183833858
+Members	dalībvalstu	0.6171936917877686
+members	dalībvalsti	0.6159540324253518
+common policies	politikas	0.614973856054713
+common policies	politiku	0.614973856054713
+federal laws	federālā līmenī	0.6117900327289078
+federal laws	federālajā līmenī	0.6117900327289078
+government	federālo valdību	0.611628034092735
+Government	federālā valdība	0.6106428876184936
+Government	federālās valdības	0.6106428876184936
+federal district	federālais apgabals	0.6084508271769627
+monetary policies	politikas	0.6069509078905813
+monetary policies	politiku	0.6069509078905813
+governments	Federālā valdība	0.6052967442407511
+federal governments	Federālā valdība	0.6040936112761381
+national bird	valsts	0.6013329920637105
+world	pasaulē	0.6005265877356672
+local government	federālo valdību	0.599354784082935
+federal law	federālos likumus	0.5986371850982908
+presidential election	prezidenta	0.598296664387123
+national laws	valsts	0.5973151349208533
+local governments	federālo valdību	0.5964553229197533
+country	valsts	0.5950692213481898
+world	pasaules kara	0.5940060803430198
+foreign policies	politiku	0.5933010908044885
+foreign policies	politikas	0.5933010908044885
+federal law	federālā apgabala	0.59317783270914
+Government	Federālā valdība	0.592251856338034
+income tax	ienākumu daļa	0.5897677132172012
+national trees	valsts	0.589626739520763
+presidential election	prezidentu	0.586522129745608
+presidential election	prezidents	0.586522129745608
+population growth	iedzīvotājiem	0.5858349183212433
+non-member states	Savienības dalībvalstis	0.5855439330061948
+Other states	štatā	0.5844846557102229
+slave states	štatā	0.5844846557102229
+other states	štatā	0.5844846557102229
+state	dalībvalsti	0.5844846557102229
+EU institutions	institūcijas	0.5838481152576509
+members	dalībvalstīm	0.5831287409314375
+members	dalībvalstīs	0.5831287409314375
+candidate countries	valstis	0.5795886245636278
+other countries	valstīs	0.5795520168731401
+other countries	valstīm	0.5795520168731401
+national parks	valsts	0.5793405907803687
+national economy	nacionālie parki	0.579032531516451
+Government	federālo valdību	0.5781864756511768
+State	jaunajos štatos	0.5776550855929993
+national law	valstu	0.5766086985780721
+other countries	valstu	0.5752008412156197
+first state	štati	0.5728754504628047
+first state	štatos	0.5728754504628047
+first state	štatiem	0.5728754504628047
+member states share	Savienības dalībvalstis	0.5700927163856452
+population growth	iedzīvotāji	0.5687351102065586
+state governments	federālās valdības	0.5673654826369858
+state governments	federālā valdība	0.5673654826369858
+state governments	federālo valdību	0.5672419399871743
+local government	Federālā valdība	0.5668125428861361
+federal laws	federālā apgabala	0.5664031279670029
+national economy	valsts	0.5661005811102756
+policy area	politiku	0.5654629741909657
+policy area	politikas	0.5654629741909657
+national insect	valsts	0.5638399594373797
+national trees	valstu	0.5624142053147989
+communist countries	valstis	0.5584234795135931
+Communist countries	valstis	0.5584234795135931
+national bird	valstu	0.5574399358153702
+national laws	valstu	0.5574399358153702
+newest members	dalībvalstu	0.5569515327440935
+silver medals	zelta medaļas	0.5568029887066553
+state	valstij	0.5540961087185948
+welfare state	štatā	0.5540961087185948
+state	valsti	0.5540961087185948
+state	valstī	0.5540961087185948
+earlier times	laikos	0.5540961087185948
+state	dalībvalstīs	0.5540961087185948
+state	dalībvalstīm	0.5540961087185948
+customs union	savienību	0.5540961087185948
+states	valstīm	0.5518183883156788
+states	valstīs	0.5518183883156788
+states	valstis	0.5518183883156788
+member state	dalībvalstu	0.551400577773252
+armed forces	bruņoto spēku	0.5510132360496259
+local governments	Federālā valdība	0.5505114473200623
+proxy wars	karš	0.5504940788348712
+state governments	Federālā valdība	0.5501326594412744
+individual member states	Savienības dalībvalstis	0.5488669590643275
+adult population	izcelsmes iedzīvotāju	0.5483259126144114
+Members	dalībvalsti	0.548065561247407
+population increases	iedzīvotāji	0.5469281045751634
+population increased	populācijas pieaugums	0.54689327967463
+population increases	populācijas pieaugums	0.54689327967463
+states	jaunajās dalībvalstīs	0.5468067556848721
+federal level	federālā apgabala	0.5467634582725074
+natural gas	dabas resursi	0.5464840985366086
+adult population	iedzīvotāji	0.5444739268410254
+gross world product	bruto produkta	0.5443430870549798
+high levels	līmenis	0.5442535654747015
+high levels	līmeni	0.5442535654747015
+high levels	līmeņa	0.5442535654747015
+high levels	līmenī	0.5442535654747015
+first state	jaunajos štatos	0.5442410069028177
+policy areas	politiku	0.5428418271004455
+policy areas	politikas	0.5428418271004455
+presidential election	prezidenta vēlēšanu	0.5416587201631669
+national parks	valstu	0.5413218605459837
+population growth	iedzīvotāju skaita	0.5409258160797535
+population growth	iedzīvotāju skaits	0.5409258160797535
+population growth	izcelsmes iedzīvotāju	0.540479387508325
+household income	ienākumus	0.5402713829318863
+household income	ienākumu	0.5402713829318863
+household income	ienākumiem	0.5402713829318863
+household income	ienākumi	0.5402713829318863
+household income	ienākuma	0.5402713829318863
+presidential election	prezidenta amatu	0.5390853324709498
+slave trade	brīvo tirdzniecību	0.5390462597527814
+Country	valsts	0.538617005086191
+population increased	iedzīvotāji	0.5379901960784313
+candidate members	dalībvalstu	0.5371531961983704
+Monetary union	savienību	0.5369880294938985
+monetary union	savienību	0.5369880294938985
+national currencies	valstu	0.5362551358506454
+states	dalībvalsti	0.5327400435249848
+candidate countries	valstīm	0.5322264691751567
+world	Jauno pasauli	0.532055075223751
+income inequality	ienākumiem	0.5314757930776675
+income inequality	ienākumus	0.5314757930776675
+income inequality	ienākumu	0.5314757930776675
+income inequality	ienākuma	0.5314757930776675
+income inequality	ienākumi	0.5314757930776675
+population growth	populācijas pieauguma	0.5311463568424696
+population increases	iedzīvotājiem	0.5288177331035872
+population increased	iedzīvotājiem	0.5288177331035872
+constitutional basis	institucionālā struktūra	0.5286036450435049
+euro notes	eiro	0.5281554778492421
+national currencies	valsts	0.5277972436808471
+other nation	nacionālais parks	0.5277554268489304
+constitutional basis	institūciju	0.527456371550134
+federal courts	federālā apgabala	0.5270394418860695
+exchange rates	valūtas kursu	0.5267388827619105
+EU institutions	institucionālā struktūra	0.5262366778563295
+countries	valstu vidū	0.5259875047528939
+national central banks	valsts	0.5258222921839398
+tax rates	štatos	0.5246963410006888
+tax rates	štatiem	0.5246963410006888
+tax rates	štati	0.5246963410006888
+presidential election	gadā prezidenta	0.5238617349780806
+state	štats	0.5233333333333333
+State	štats	0.5233333333333333
+State	Štats	0.5233333333333333
+State	Štati	0.5233333333333333
+state	Štati	0.5233333333333333
+state	Štats	0.5233333333333333
+national insect	valstu	0.5233327721840131
+federal courts	federālā līmenī	0.5232199974416252
+federal courts	federālajā līmenī	0.5232199974416252
+member states	dalībvalstu	0.5227043459339595
+28th member	dalībvalsti	0.5226021054111084
+candidate countries	valstu	0.5217868218939732
+international agreements	līgumu	0.5214659936645656
+new states	valstīs	0.5198394439094922
+new states	valstīm	0.5198394439094922
+national economy	valstu	0.5197117862988901
+countries	valstij	0.519482852879121
+countries	valstī	0.519482852879121
+countries	valsti	0.519482852879121
+potential candidate	oficiālās kandidātvalstis	0.5192014964454438
+Members	dalībvalstīs	0.518719400272097
+Members	dalībvalstīm	0.518719400272097
+adult population	populācijas pieaugums	0.5182468836107679
+Communist countries	valstu	0.5181228973236495
+communist countries	valstu	0.5181228973236495
+communist countries	valstīm	0.5175317469771238
+tax rates	nodokļu likmes	0.5164798222095527
+Administrative divisions	administratīvais iedalījums	0.5160983638348633
+adult population	iedzīvotāju skaita	0.5157193963236846
+adult population	iedzīvotāju skaits	0.5157193963236846
+countries	sabiedrotās valstis	0.5151660662090584
+Communist countries	valstīm	0.5146254427550301
+world average	pasauli	0.5143824518040709
+world average	pasaules	0.5143824518040709
+population increased	populācijas pieauguma	0.5139384895665328
+population increases	populācijas pieauguma	0.5139384895665328
+official languages	Angļu valodā	0.5136196092857958
+energy policy	politiku	0.5134516730828113
+energy policy	politikas	0.5134516730828113
+Energy policy	politikas	0.5134516730828113
+Energy policy	politiku	0.5134516730828113
+tax rates	nodokļa likme	0.5130872190530473
+Restoration of independence	neatkarības atjaunošana	0.5115792211933078
+new member states	dalībvalstu	0.5097947944011735
+world	Jaunās pasaules	0.5079255655785211
+military spending	militāro izdevumu	0.5075146238545524
+potential candidates	oficiālās kandidātvalstis	0.5072108869164379
+policies	drošības politika	0.505094133457831
+policies	drošības politikas	0.505094133457831
+states	valstī	0.5050164760021908
+welfare state	štatiem	0.5050164760021908
+welfare state	štati	0.5050164760021908
+federal level	līmeņos	0.5050164760021908
+welfare state	štatos	0.5050164760021908
+states	valsti	0.5050164760021908
+states	valstij	0.5050164760021908
+stated	valstij	0.5050164760021908
+stated	valsti	0.5050164760021908
+stated	valstī	0.5050164760021908
+presidential election	gada prezidenta	0.5041235233784783
+recent years	gads	0.5035284125728212
+College football	Amerikāņu futbola	0.5015336817237267
+college football	Amerikāņu futbola	0.5015336817237267
+country	valstis	0.5011080850537667
+country	valstīm	0.5011080850537667
+country	valstīs	0.5011080850537667
+countries	valstu teritorijās	0.5010028439134134
+national central banks	valstu	0.5005684674983781

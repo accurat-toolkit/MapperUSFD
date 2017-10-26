@@ -1,0 +1,2 @@
+testing/muc7_en_in/Latvia.txt	testing/muc7_lt_in/Latvia.txt	0
+testing/muc7_en_in/Microsoft.txt	testing/muc7_lt_in/Microsoft.txt	0

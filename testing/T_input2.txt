@@ -1,0 +1,1 @@
+./testing/englishTE.txt	./testing/latvianTE.txt	0

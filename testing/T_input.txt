@@ -1,0 +1,3 @@
+./testing/term_en_in/WIKI_USA.txt.T_tagged	./testing/term_lv_in/WIKI_USA.txt.T_tagged	0
+./testing/term_en_in/WIKI_LATVIA.txt.T_tagged	./testing/term_lv_in/WIKI_LATVIA.txt.T_tagged	0
+./testing/term_en_in/WIKI_EU.txt.T_tagged	./testing/term_lv_in/WIKI_EU.txt.T_tagged	0

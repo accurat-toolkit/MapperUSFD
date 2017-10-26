@@ -1,0 +1,3 @@
+./testing/muc7_en_in/WIKI_USA.txt.NE_tagged	./testing/muc7_lv_in/WIKI_USA.txt.NE_tagged	0
+./testing/muc7_en_in/WIKI_LATVIA.txt.NE_tagged	./testing/muc7_lv_in/WIKI_LATVIA.txt.NE_tagged	0
+./testing/muc7_en_in/WIKI_EU.txt.NE_tagged	./testing/muc7_lv_in/WIKI_EU.txt.NE_tagged	0
